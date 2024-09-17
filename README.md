@@ -4,4 +4,4 @@ Este repositorio hospeda um aplicativo de simulação dos operadores lógicos (A
 ## Author
 joão vitor souto
 ## APP - Simulador
-![qrcode](https://joaovitorpeixee.github.io/simulador/main/imagens/qrcode.png)
+![qrcode](https://github.com/joaovitorpeixee/simulador/blob/main/simulador/imagens/qrcode.png)
